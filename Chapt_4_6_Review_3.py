@@ -1,0 +1,5 @@
+text = input("enter a string: ")
+#interger = float(text)
+integer = input("enter a whole number: ")
+#multiplier = float(multiplier)
+print (text + " " + str(integer))
