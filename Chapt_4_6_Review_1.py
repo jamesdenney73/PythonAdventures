@@ -1,0 +1,5 @@
+text = input("enter a number: ")
+interger = int(text)
+multiplier = input("enter a number: ")
+multiplier = int(multiplier)
+print (interger * multiplier)
