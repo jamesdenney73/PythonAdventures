@@ -1,0 +1,5 @@
+text = input("enter a decimal number: ")
+interger = float(text)
+multiplier = input("enter a decimal number: ")
+multiplier = float(multiplier)
+print (interger * multiplier)
